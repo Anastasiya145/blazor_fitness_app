@@ -1,0 +1,5 @@
+C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\publish\release\web.config
+C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\publish\release\FitnessApp.Client.staticwebassets.endpoints.json
+C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\publish\release\wwwroot\sample-data\weather.json
+C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\publish\release\wwwroot\_framework\blazor.boot.json
+C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\publish\web.config

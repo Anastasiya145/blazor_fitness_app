@@ -1281,8 +1281,6 @@ C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitne
 C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\bin\Release\net9.0\wwwroot\_framework\mscorlib.qiu3j3msqk.wasm
 C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\bin\Release\net9.0\wwwroot\_framework\netstandard.lp03u0xxi4.wasm
 C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\bin\Release\net9.0\wwwroot\_framework\System.Private.CoreLib.9ecf2cskpd.wasm
-C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\bin\Release\net9.0\wwwroot\_framework\FitnessApp.Client.3771vzvg34.wasm
-C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\bin\Release\net9.0\wwwroot\_framework\FitnessApp.Client.8r2acdl32e.pdb
 C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\bin\Release\net9.0\wwwroot\_framework\blazor.boot.json
 C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\bin\Release\net9.0\wwwroot\_framework\blazor.webassembly.js.gz
 C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\bin\Release\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.tnyc7xpluy.wasm.gz
@@ -1485,8 +1483,6 @@ C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitne
 C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\bin\Release\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\bin\Release\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat.gz
 C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\bin\Release\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
-C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\bin\Release\net9.0\wwwroot\_framework\FitnessApp.Client.3771vzvg34.wasm.gz
-C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\bin\Release\net9.0\wwwroot\_framework\FitnessApp.Client.8r2acdl32e.pdb.gz
 C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\bin\Release\net9.0\wwwroot\_framework\blazor.boot.json.gz
 C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\bin\Release\net9.0\FitnessApp.Client.staticwebassets.runtime.json
 C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\bin\Release\net9.0\FitnessApp.Client.staticwebassets.endpoints.json
@@ -2151,9 +2147,6 @@ C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitne
 C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\obj\Release\net9.0\compressed\ltrqd676ij-tjcz0u77k5.gz
 C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\obj\Release\net9.0\compressed\z8gcal64ei-tptq2av103.gz
 C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\obj\Release\net9.0\compressed\wjhjd0drk7-lfu7j35m59.gz
-C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\obj\Release\net9.0\compressed\ecirmy5w77-3771vzvg34.gz
-C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\obj\Release\net9.0\compressed\gpprfpeo82-8r2acdl32e.gz
-C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\obj\Release\net9.0\compressed\8asaxnk1vn-cdets4ewcm.gz
 C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\obj\Release\net9.0\staticwebassets.build.json
 C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\obj\Release\net9.0\staticwebassets.build.json.cache
 C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\obj\Release\net9.0\staticwebassets.development.json
@@ -2163,3 +2156,14 @@ C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitne
 C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\obj\Release\net9.0\refint\FitnessApp.Client.dll
 C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\obj\Release\net9.0\FitnessApp.Client.pdb
 C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\obj\Release\net9.0\ref\FitnessApp.Client.dll
+C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\bin\Release\net9.0\wwwroot\_framework\FitnessApp.Client.lj2qme0coe.wasm
+C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\bin\Release\net9.0\wwwroot\_framework\FitnessApp.Client.w1dclf6u56.pdb
+C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\bin\Release\net9.0\wwwroot\_framework\FitnessApp.Client.lj2qme0coe.wasm.gz
+C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\bin\Release\net9.0\wwwroot\_framework\FitnessApp.Client.w1dclf6u56.pdb.gz
+C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\bin\Release\net9.0\release\web.config
+C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\bin\Release\net9.0\release\FitnessApp.Client.staticwebassets.endpoints.json
+C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\bin\Release\net9.0\release\wwwroot\sample-data\weather.json
+C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\bin\Release\net9.0\release\wwwroot\_framework\blazor.boot.json
+C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\obj\Release\net9.0\compressed\ecirmy5w77-lj2qme0coe.gz
+C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\obj\Release\net9.0\compressed\gpprfpeo82-w1dclf6u56.gz
+C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\obj\Release\net9.0\compressed\8asaxnk1vn-l2mm3z0jae.gz
