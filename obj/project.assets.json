@@ -1762,11 +1762,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ib046\\OneDrive - Deutsche Börse AG\\Documents\\NET projects\\FitnessApp.Client\\FitnessApp.Client.csproj",
+      "projectUniqueName": "C:\\Users\\ib046\\OneDrive - Deutsche Börse AG\\Documents\\NET projects\\blazor_fitness_app\\FitnessApp.Client.csproj",
       "projectName": "FitnessApp.Client",
-      "projectPath": "C:\\Users\\ib046\\OneDrive - Deutsche Börse AG\\Documents\\NET projects\\FitnessApp.Client\\FitnessApp.Client.csproj",
+      "projectPath": "C:\\Users\\ib046\\OneDrive - Deutsche Börse AG\\Documents\\NET projects\\blazor_fitness_app\\FitnessApp.Client.csproj",
       "packagesPath": "C:\\Users\\ib046\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ib046\\OneDrive - Deutsche Börse AG\\Documents\\NET projects\\FitnessApp.Client\\obj\\",
+      "outputPath": "C:\\Users\\ib046\\OneDrive - Deutsche Börse AG\\Documents\\NET projects\\blazor_fitness_app\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ib046\\AppData\\Roaming\\NuGet\\NuGet.Config"

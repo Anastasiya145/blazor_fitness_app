@@ -1,0 +1,18 @@
+# Vercel .gitignore
+# Не публикуем исходники, только билд
+
+bin/
+obj/
+publish/
+Components/
+Layout/
+Models/
+Pages/
+Properties/
+Services/
+wwwroot/
+*.csproj
+*.sln
+*.user
+*.db
+README.md

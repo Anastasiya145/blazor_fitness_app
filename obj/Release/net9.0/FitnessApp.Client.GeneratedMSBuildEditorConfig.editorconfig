@@ -13,61 +13,61 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = FitnessApp.Client
 build_property.RootNamespace = FitnessApp.Client
-build_property.ProjectDir = C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\FitnessApp.Client\
+build_property.ProjectDir = C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\FitnessApp.Client
+build_property.MSBuildProjectDirectory = C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/ib046/OneDrive - Deutsche Börse AG/Documents/NET projects/FitnessApp.Client/App.razor]
+[C:/Users/ib046/OneDrive - Deutsche Börse AG/Documents/NET projects/blazor_fitness_app/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ib046/OneDrive - Deutsche Börse AG/Documents/NET projects/FitnessApp.Client/Components/CustomSelect.razor]
+[C:/Users/ib046/OneDrive - Deutsche Börse AG/Documents/NET projects/blazor_fitness_app/Components/CustomSelect.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDdXN0b21TZWxlY3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ib046/OneDrive - Deutsche Börse AG/Documents/NET projects/FitnessApp.Client/Components/ExerciseCard.razor]
+[C:/Users/ib046/OneDrive - Deutsche Börse AG/Documents/NET projects/blazor_fitness_app/Components/ExerciseCard.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xFeGVyY2lzZUNhcmQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ib046/OneDrive - Deutsche Börse AG/Documents/NET projects/FitnessApp.Client/Components/ExerciseDetailsModal.razor]
+[C:/Users/ib046/OneDrive - Deutsche Börse AG/Documents/NET projects/blazor_fitness_app/Components/ExerciseDetailsModal.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xFeGVyY2lzZURldGFpbHNNb2RhbC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ib046/OneDrive - Deutsche Börse AG/Documents/NET projects/FitnessApp.Client/Components/ExerciseList.razor]
+[C:/Users/ib046/OneDrive - Deutsche Börse AG/Documents/NET projects/blazor_fitness_app/Components/ExerciseList.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xFeGVyY2lzZUxpc3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ib046/OneDrive - Deutsche Börse AG/Documents/NET projects/FitnessApp.Client/Components/PageHeader.razor]
+[C:/Users/ib046/OneDrive - Deutsche Börse AG/Documents/NET projects/blazor_fitness_app/Components/PageHeader.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlSGVhZGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ib046/OneDrive - Deutsche Börse AG/Documents/NET projects/FitnessApp.Client/Components/SearchButton.razor]
+[C:/Users/ib046/OneDrive - Deutsche Börse AG/Documents/NET projects/blazor_fitness_app/Components/SearchButton.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTZWFyY2hCdXR0b24ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ib046/OneDrive - Deutsche Börse AG/Documents/NET projects/FitnessApp.Client/Components/SearchFilters.razor]
+[C:/Users/ib046/OneDrive - Deutsche Börse AG/Documents/NET projects/blazor_fitness_app/Components/SearchFilters.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTZWFyY2hGaWx0ZXJzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ib046/OneDrive - Deutsche Börse AG/Documents/NET projects/FitnessApp.Client/Pages/Home.razor]
+[C:/Users/ib046/OneDrive - Deutsche Börse AG/Documents/NET projects/blazor_fitness_app/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ib046/OneDrive - Deutsche Börse AG/Documents/NET projects/FitnessApp.Client/_Imports.razor]
+[C:/Users/ib046/OneDrive - Deutsche Börse AG/Documents/NET projects/blazor_fitness_app/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ib046/OneDrive - Deutsche Börse AG/Documents/NET projects/FitnessApp.Client/Layout/MainLayout.razor]
+[C:/Users/ib046/OneDrive - Deutsche Börse AG/Documents/NET projects/blazor_fitness_app/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-9gq1gq83s1
 
-[C:/Users/ib046/OneDrive - Deutsche Börse AG/Documents/NET projects/FitnessApp.Client/Layout/NavMenu.razor]
+[C:/Users/ib046/OneDrive - Deutsche Börse AG/Documents/NET projects/blazor_fitness_app/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-tbzp48id2e

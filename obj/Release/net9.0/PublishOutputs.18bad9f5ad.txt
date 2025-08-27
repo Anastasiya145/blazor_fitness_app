@@ -1,0 +1,2 @@
+C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\dist\vercel.json
+C:\Users\ib046\OneDrive - Deutsche Börse AG\Documents\NET projects\blazor_fitness_app\dist\web.config
